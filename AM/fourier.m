@@ -8,3 +8,6 @@ fourier(c(t))
 
 x(t) = 2*cos(pi*t/4)*cos(4*pi*t)+2*cos(4*pi*t);
 fourier(x(t))
+
+x_sc(t) = 8*cos(pi*t/4)*cos(4*pi*t);
+fourier(x_sc(t))
