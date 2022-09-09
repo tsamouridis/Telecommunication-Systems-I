@@ -1,1 +1,1 @@
-Several notes and Juyter Notebooks for the course Telecommunication Systems I
+Several notes and Jupyter Notebooks for the course of Telecommunication Systems I
